@@ -72,6 +72,22 @@
     color: rgb(250, 200, 50);
   }
 
+  .card2 {
+    background-color: rgb(30, 30, 30);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(250, 200, 50);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    text-align: center;
+  }
+
+  .card2 h2 {
+    color: rgb(250, 200, 50);
+  }
+
   .row {
     margin-left: auto;
     margin-right: auto;
@@ -129,26 +145,10 @@
     .card {
       width: 100%;
     }
-    .contactcard {
+    .card2 {
       width: 100%;
     }
   }
-
-  .contactcard {
-    background-color: rgb(30, 30, 30);
-    color: rgb(255, 255, 255);
-    border: 1px solid rgb(250, 200, 50);
-    padding: 20px;
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 65%;
-    text-align: center;
-  }
-
-  .contactcard h2 {
-    color: rgb(250, 200, 50);
-  }  
 
   .footer {
     padding: 20px;
